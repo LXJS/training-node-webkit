@@ -17,7 +17,7 @@ It also provides an easy way of packaing so your application written in HTML5 lo
 
 ## Trainers
 
-* [Roger Wang](http://github.com/rogerwang): Twitter: @wwr
+* [Roger Wang](http://github.com/rogerwang): Twitter: [@wwr](https://twitter.com/wwr)
 
 ## Preparations for this training
 
