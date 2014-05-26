@@ -28,14 +28,6 @@ In order to prepare to this training you should do the following List of reading
 * 1: [Node.js tutorial](http://nodeguide.com/beginner.html): Get to know what's Node.js
 * 2: [Introduction to node-webkit](https://speakerdeck.com/u/zcbenz/p/node-webkit-app-runtime-based-on-chromium-and-node-dot-js): Slides for introduction of node-webkit
 
-### TODO List
-
-`fill in`
-
-### Materials
-
-`fill in`
-
 ## 27 Jun XX:YYh Participants
 
 `TBA`
