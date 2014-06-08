@@ -45,7 +45,7 @@ In order to prepare to this training you should do the following List of reading
 - Luís Ferreira - [zamith](https://github.com/zamith)
 - Marcelo Conceição - [marcelombc](https://github.com/marcelombc)
 - Marco Oliveira - [marcooliveira](https://github.com/marcooliveira)
-- Miguel Pereira
+- Miguel Pereira - [miguelampereira](https://github.com/miguelampereira)
 - Nelson Neves - [nneves](https://github.com/nneves)
 - Nuno Costa - [naflcosta](https://github.com/naflcosta)
 - Paulo Vieira - [paulovieira](https://github.com/paulovieira)
