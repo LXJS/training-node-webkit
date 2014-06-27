@@ -94,6 +94,7 @@ In order to prepare to this training you should do the following List of reading
 - Daniel Wellman - [danwellman](https://github.com/danwellman)
 - Matthias Knoll - [kohlikohl](https://github.com/kohlikohl)
 - Jorge Dias - [diasjorge](https://github.com/diasjorge)
+- Alejandro Dev - [ainformatico](https://github.com/ainformatico)
 - Ricardo Quintas - [rdquintas](https://github.com/rdquintas)
 - Matteo Collina - [mcollina](https://github.com/mcollina)
 - Roger Wang - [rogerwang](https://github.com/rogerwang)
@@ -111,3 +112,5 @@ In order to prepare to this training you should do the following List of reading
 - Gegely Szanto - [szantogeri](https://github.com/szantogeri)
 - Catarina Moura - [catarinamoura](https://github.com/catarinamoura)
 - Carlos Timóteo - [ctimoteo](https://github.com/ctimoteo)
+- João Andrade - [thejoaosa](https://github.com/thejoaosa)
+- Nuno Jesus - [nmjesus](https://github.com/nmjesus)
