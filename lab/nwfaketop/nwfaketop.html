@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Testing nwfaketop</title>
+  </head>
+  <body>
+    <b>You should be able to see Twitter in an iframe below:</b><br />
+    <iframe src="https://twitter.com" style="width: 80%;" nwdisable nwfaketop>
+    </iframe><br />
+
+    <b>You should be able to click on a search result from Google and have it navigate within the iframe below:</b><br />
+    <iframe src="https://www.google.com/search?q=foobar" style="width: 80%;" nwdisable nwfaketop>
+    </iframe><br />
+
+    <b>You should be able to click on a search result from DuckDuckGo and have it navigate within the iframe below:</b><br />
+    <iframe src="https://duckduckgo.com/?q=foobar" style="width: 80%;" nwdisable nwfaketop>
+    </iframe><br />
+
+    <b>This tests the following properties: "opener", "parent", "top", "location.ancestorOrigins"</b><br />
+    <iframe src="nwfaketop_windowproptests.html" style="width: 80%;" nwdisable nwfaketop>
+    </iframe><br />
+
+    <b>This tests target="_parent" and target="_top" access. Clicking on the links shouldn't navigate the whole window.</b><br />
+    <iframe src="nwfaketop_targettests.html" style="width: 80%;" nwdisable nwfaketop>
+    </iframe><br />
+  </body>
+</html>

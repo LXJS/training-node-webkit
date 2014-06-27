@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Testing Property Access</title>
+    <script>
+    try {
+      if(window.top !== window)
+        document.write("window.top Failure<br />");
+
+      if(window.parent !== window)
+        document.write("window.parent Failure<br />");
+
+      var l = 0;
+      for(var tempWin = window; tempWin != top; tempWin = tempWin.parent) { ++l; }
+      if(window.location.ancestorOrigins.length !== l)
+        document.write("window.location.ancestorOrigins.length Failure<br />");
+
+    }
+    catch(e) { document.write("Exception Thrown Failure<br />" + e); }
+    </script>
+  </head>
+  <body></body>
+</html>

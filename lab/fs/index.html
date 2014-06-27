@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>fs</title>
+<script>
+
+var fs=require('fs');
+fs.readdir('.', function(err, files) {
+  for (i in files) {
+     document.write(files[i] + '<br/>');
+  }
+});
+</script>
+</head>
+<body>
+
+</body>
+</html>

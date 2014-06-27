@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>fs</title>
+<script>
+
+var async=require('async');
+var fs=require('fs');
+
+async.map(['index.html','package.json'], fs.stat, function(err, results){
+  console.log(results);
+});
+</script>
+</head>
+<body>
+
+</body>
+</html>
