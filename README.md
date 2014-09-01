@@ -12,7 +12,7 @@ It also provides an easy way of packaing so your application written in HTML5 lo
 
 * 1: How to access Node.js from DOM with node-webkit
 * 2: Make package for your application
-* 3: Learn various node-webkit API fors native UI (menu, tray, shell)
+* 3: Learn various node-webkit APIs for native UI (menu, tray, shell)
 * 4: Compiling Node.js C++ modules with nw-gyp
 
 ## Trainers
